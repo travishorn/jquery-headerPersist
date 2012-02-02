@@ -1,0 +1,3 @@
+Locks a header to the top of the page only when user is scrolling within it's parent container.
+
+Open example.html for example usage.
