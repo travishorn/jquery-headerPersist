@@ -1,0 +1,22 @@
+{
+  "name": "jquery-headerpersist",
+  "version": "1.0.0",
+  "description": "Locks a header to the top of the page only when user is scrolling within it's parent container.",
+  "main": "jquery.headerPersist.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/travishorn/jquery-headerPersist.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "ui",
+    "effect"
+  ],
+  "author": {
+    "name": "Travis Horn",
+    "url": "http://travishorn.com"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/travishorn/jquery-headerPersist/issues"
+}
